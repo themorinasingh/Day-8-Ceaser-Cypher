@@ -1,0 +1,7 @@
+MY actionplan
+
+careate a list of len 52, with abcd twice
+
+check if the cyber number is > 26, if it is use the reinder of the cyber_number and the 26 to deduce the correct cypher code
+
+use a for loop to conacate nate to the string
